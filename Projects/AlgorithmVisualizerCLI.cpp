@@ -29,7 +29,7 @@ int main(){
         } else if (choice ==5){
             cout << "Complexity Information Selected" << endl;
         } else if (choice ==6){
-            cout << "Exiting Program....." << endl;
+            cout << "Exiting Program...." << endl;
             break;
         } else {
             cout << "invalid choice, Try Again" << endl;
