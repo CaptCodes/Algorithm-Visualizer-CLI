@@ -1,0 +1,5 @@
+*.exe
+avc.exe
+.vscode/
+pcode.cpp
+a.exe
